@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidianmd]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidianmd</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 13 Jun 2025 16:47:25 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 13 Jun 2025 16:47:22 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Plotting in Python]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidianmd]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidianmd</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 13 Jun 2025 16:50:20 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 13 Jun 2025 16:50:17 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Plotting in Python]]></title><description><![CDATA[ 
  <br>Plotting in Python can feel overwhelming—too many libraries, syntax quirks, and trial-and-error moments. I used to lean on LLMs for quick answers, but they often left me piecing things together. This page is your go-to guide for mastering Python plotting, offering clear explanations, reusable patterns, and troubleshooting tips to make visualizations intuitive and efficient.<br>
 ⚠️ Note on scope:<br>
 This guide is focused purely on the technical side of plotting—how to use visualization libraries, understand their syntax, and craft common plot types efficiently. It does not cover interpreting what the plots mean or how to draw insights from them.
@@ -74,7 +74,8 @@ This method involves creating figure and axes objects explicitly  (e.g., with pl
 ax.plot([1, 2, 3], [4, 5, 6])
 ax.set_title("Sample Plot")
 <br>Pros:<br>
-<br>Offers explicit control over each component of the plot, which enhances modularity and reusability.	- Avoids issues related to the global state, making it easier to manage multiple plots or subplots within the same figure.<br>
+<br>Offers explicit control over each component of the plot, which enhances modularity and reusability.	
+<br>Avoids issues related to the global state, making it easier to manage multiple plots or subplots within the same figure.<br>
 Cons:
 <br>Slightly more verbose and requires a bit more setup for very simple plots.
 <br><br>Building a clear and informative plot involves several key components:<br>
@@ -760,7 +761,7 @@ Explanation:<br>
 <br>Font Size: Reduce tick label font size for crowded axes to improve clarity.
 <br>Custom Ticks: Use dynamic tick locators to reduce tick density automatically.
 <br>Preview: Check label placement in a small figure before saving to high-resolution formats.
-]]></description><link>plotting-in-python.html</link><guid isPermaLink="false">Plotting in Python.md</guid><pubDate>Fri, 13 Jun 2025 16:47:16 GMT</pubDate><enclosure url="https://matplotlib.org/stable/_images/users-explain-axes-axes_intro-1.2x.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://matplotlib.org/stable/_images/users-explain-axes-axes_intro-1.2x.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Future Expansion]]></title><description><![CDATA[ 
+]]></description><link>plotting-in-python.html</link><guid isPermaLink="false">Plotting in Python.md</guid><pubDate>Fri, 13 Jun 2025 16:50:09 GMT</pubDate><enclosure url="https://matplotlib.org/stable/_images/users-explain-axes-axes_intro-1.2x.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://matplotlib.org/stable/_images/users-explain-axes-axes_intro-1.2x.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Future Expansion]]></title><description><![CDATA[ 
  <br><br>
 <br><a data-href="Core Python Deep Dives" href="Core Python Deep Dives" class="internal-link" target="_self" rel="noopener nofollow">Core Python Deep Dives</a>: Explore advanced Python features like dunder methods, iterators, generators, comprehensions, context managers, decorators, closures, and functional tools (map, filter, reduce, lambda, functools).<br>
 Relevance:
