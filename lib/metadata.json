@@ -1,0 +1,604 @@
+{
+  "vaultName": "obsidianmd",
+  "lastExport": 1749832417634,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "assets/Pasted image 20250414174928.png",
+    "assets/Pasted image 20250415193014.png",
+    "assets/Pasted image 20250415193227.png",
+    "assets/Pasted image 20250415193350.png",
+    "assets/Pasted image 20250415193502.png",
+    "assets/Pasted image 20250415193648.png",
+    "assets/Pasted image 20250415193747.png",
+    "assets/Pasted image 20250415201438.png",
+    "assets/Pasted image 20250415201945.png",
+    "assets/Pasted image 20250426180522.png",
+    "assets/Pasted image 20250510201222.png",
+    "assets/Pasted image 20250510201256.png",
+    "assets/Pasted image 20250510201415.png",
+    "assets/Pasted image 20250510201521.png",
+    "assets/Pasted image 20250510201600.png",
+    "assets/Pasted image 20250510201802.png",
+    "assets/Pasted image 20250510201822.png",
+    "assets/Pasted image 20250510202129.png",
+    "assets/Pasted image 20250510202200.png",
+    "assets/Pasted image 20250510202257.png",
+    "assets/Pasted image 20250613145637.png",
+    "assets/Pasted image 20250613150634.png",
+    "assets/Pasted image 20250613151012.png",
+    "assets/Pasted image 20250613154234.png",
+    "assets/Pasted image 20250613154311.png",
+    "assets/Pasted image 20250613162408.png",
+    "assets/Pasted image 20250613162825.png",
+    "Future Expansion.md",
+    "Plotting in Python.md",
+    "Python Virtual environments and Anaconda.md",
+    "Summary.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "assets/Pasted image 20250414174928.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 36194,
+      "exportedPath": "assets/pasted-image-20250414174928.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250415193014.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 19735,
+      "exportedPath": "assets/pasted-image-20250415193014.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250415193227.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 31071,
+      "exportedPath": "assets/pasted-image-20250415193227.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250415193350.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 32645,
+      "exportedPath": "assets/pasted-image-20250415193350.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250415193502.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 14364,
+      "exportedPath": "assets/pasted-image-20250415193502.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250415193648.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 80294,
+      "exportedPath": "assets/pasted-image-20250415193648.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250415193747.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 20864,
+      "exportedPath": "assets/pasted-image-20250415193747.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250415201438.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 20901,
+      "exportedPath": "assets/pasted-image-20250415201438.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250415201945.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 17263,
+      "exportedPath": "assets/pasted-image-20250415201945.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250426180522.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 20551,
+      "exportedPath": "assets/pasted-image-20250426180522.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510201222.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 25345,
+      "exportedPath": "assets/pasted-image-20250510201222.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510201256.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 13535,
+      "exportedPath": "assets/pasted-image-20250510201256.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510201415.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 6846,
+      "exportedPath": "assets/pasted-image-20250510201415.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510201521.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 12169,
+      "exportedPath": "assets/pasted-image-20250510201521.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510201600.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 16368,
+      "exportedPath": "assets/pasted-image-20250510201600.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510201802.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 33173,
+      "exportedPath": "assets/pasted-image-20250510201802.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510201822.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 12937,
+      "exportedPath": "assets/pasted-image-20250510201822.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510202129.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 71415,
+      "exportedPath": "assets/pasted-image-20250510202129.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510202200.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 18604,
+      "exportedPath": "assets/pasted-image-20250510202200.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250510202257.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 28899,
+      "exportedPath": "assets/pasted-image-20250510202257.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250613145637.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 162663,
+      "exportedPath": "assets/pasted-image-20250613145637.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250613150634.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 102984,
+      "exportedPath": "assets/pasted-image-20250613150634.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250613151012.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 102984,
+      "exportedPath": "assets/pasted-image-20250613151012.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250613154234.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 79685,
+      "exportedPath": "assets/pasted-image-20250613154234.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250613154311.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 88581,
+      "exportedPath": "assets/pasted-image-20250613154311.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250613162408.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 65189,
+      "exportedPath": "assets/pasted-image-20250613162408.png",
+      "dependencies": []
+    },
+    "assets/Pasted image 20250613162825.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 78839,
+      "exportedPath": "assets/pasted-image-20250613162825.png",
+      "dependencies": []
+    },
+    "Future Expansion.md": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 6749,
+      "exportedPath": "future-expansion.html",
+      "dependencies": []
+    },
+    "Plotting in Python.md": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 43575,
+      "exportedPath": "plotting-in-python.html",
+      "dependencies": [
+        "assets/pasted-image-20250414174928.png",
+        "assets/pasted-image-20250510201222.png",
+        "assets/pasted-image-20250510201256.png",
+        "assets/pasted-image-20250510201415.png",
+        "assets/pasted-image-20250510201521.png",
+        "assets/pasted-image-20250510201600.png",
+        "assets/pasted-image-20250415201945.png",
+        "assets/pasted-image-20250415193747.png",
+        "assets/pasted-image-20250510201802.png",
+        "assets/pasted-image-20250510201822.png",
+        "assets/pasted-image-20250510202129.png",
+        "assets/pasted-image-20250510202200.png",
+        "assets/pasted-image-20250510202257.png",
+        "assets/pasted-image-20250415193014.png",
+        "assets/pasted-image-20250613145637.png",
+        "assets/pasted-image-20250613150634.png",
+        "assets/pasted-image-20250613154311.png",
+        "assets/pasted-image-20250613154234.png",
+        "assets/pasted-image-20250613162408.png",
+        "assets/pasted-image-20250613162825.png"
+      ]
+    },
+    "Python Virtual environments and Anaconda.md": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 19577,
+      "exportedPath": "python-virtual-environments-and-anaconda.html",
+      "dependencies": [
+        "assets/pasted-image-20250426180522.png"
+      ]
+    },
+    "Summary.md": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 1721,
+      "exportedPath": "summary.html",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250414174928.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 36194,
+      "exportedPath": "assets/pasted-image-20250414174928.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510201222.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 25345,
+      "exportedPath": "assets/pasted-image-20250510201222.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510201256.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 13535,
+      "exportedPath": "assets/pasted-image-20250510201256.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510201415.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 6846,
+      "exportedPath": "assets/pasted-image-20250510201415.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510201521.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 12169,
+      "exportedPath": "assets/pasted-image-20250510201521.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510201600.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 16368,
+      "exportedPath": "assets/pasted-image-20250510201600.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250415201945.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 17263,
+      "exportedPath": "assets/pasted-image-20250415201945.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250415193747.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 20864,
+      "exportedPath": "assets/pasted-image-20250415193747.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510201802.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 33173,
+      "exportedPath": "assets/pasted-image-20250510201802.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510201822.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 12937,
+      "exportedPath": "assets/pasted-image-20250510201822.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510202129.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 71415,
+      "exportedPath": "assets/pasted-image-20250510202129.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510202200.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 18604,
+      "exportedPath": "assets/pasted-image-20250510202200.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250510202257.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 28899,
+      "exportedPath": "assets/pasted-image-20250510202257.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250415193014.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 19735,
+      "exportedPath": "assets/pasted-image-20250415193014.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250613145637.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 162663,
+      "exportedPath": "assets/pasted-image-20250613145637.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250613150634.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 102984,
+      "exportedPath": "assets/pasted-image-20250613150634.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250613154311.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 88581,
+      "exportedPath": "assets/pasted-image-20250613154311.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250613154234.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 79685,
+      "exportedPath": "assets/pasted-image-20250613154234.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250613162408.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 65189,
+      "exportedPath": "assets/pasted-image-20250613162408.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250613162825.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 78839,
+      "exportedPath": "assets/pasted-image-20250613162825.png",
+      "dependencies": []
+    },
+    "assets/pasted-image-20250426180522.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 20551,
+      "exportedPath": "assets/pasted-image-20250426180522.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 13075,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 470,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 137466,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1749832417634,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
