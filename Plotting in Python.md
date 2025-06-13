@@ -102,6 +102,7 @@ When creating plots in Python, particularly with Matplotlib, you have two main a
 - **Object-Oriented Approach (using `Figure` and `Axes` objects):**  
   This method involves creating figure and axes objects explicitly  (e.g., with `plt.subplots()`) . You then call methods on these objects to create and customize your plots. 
 
+
 ```python
 fig, ax = plt.subplots()
 ax.plot([1, 2, 3], [4, 5, 6])
@@ -109,10 +110,10 @@ ax.set_title("Sample Plot")
 ```
 
 **Pros:**
-- Offers explicit control over each component of the plot, which enhances modularity and reusability.	- Avoids issues related to the global state, making it easier to manage multiple plots or subplots within the same figure. 
+- Offers explicit control over each component of the plot, which enhances modularity and reusability.	
+- Avoids issues related to the global state, making it easier to manage multiple plots or subplots within the same figure. 
 **Cons:**
 - Slightly more verbose and requires a bit more setup for very simple plots.
-  
 ### 2.3 Basic Plot Components
 Building a clear and informative plot involves several key components:
 - **Title and Axis Labels:**  
@@ -122,6 +123,7 @@ ax.set_title("Growth Over Time")
 ax.set_xlabel("Time (years)")
 ax.set_ylabel("Growth (%)")
 ```
+
 
 - **Legend:**  
   When your plot contains multiple data series, a legend helps distinguish them by mapping colors, shapes, or line styles to each series. Legends improve the readability of the plot and guide the viewer in interpreting the data correctly.
