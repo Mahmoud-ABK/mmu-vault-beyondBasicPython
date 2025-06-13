@@ -1,117 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidianmd]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidianmd</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 13 Jun 2025 16:33:41 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 13 Jun 2025 16:33:37 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Future Expansion]]></title><description><![CDATA[ 
- <br><br>
-<br><a data-href="Core Python Deep Dives" href="Core Python Deep Dives" class="internal-link" target="_self" rel="noopener nofollow">Core Python Deep Dives</a>: Explore advanced Python features like dunder methods, iterators, generators, comprehensions, context managers, decorators, closures, and functional tools (map, filter, reduce, lambda, functools).<br>
-Relevance:
-
-<br>Software Development: Simplifies code with elegant patterns like decorators and context managers for robust applications.
-<br>Data Science: Functional tools and comprehensions speed up data processing and transformation tasks.
-<br>Machine Learning: Generators and iterators optimize memory usage for large datasets and model training.
-
-
-<br><a data-href="Object Oriented Programming (OOP)" href="Object Oriented Programming (OOP)" class="internal-link" target="_self" rel="noopener nofollow">Object Oriented Programming (OOP)</a>: Master OOP in Python, covering classes, objects, inheritance, polymorphism, class/static methods, method resolution order (MRO), abstract base classes, properties, descriptors, and custom exceptions.<br>
-Relevance:
-
-<br>Software Development: Structures scalable, maintainable codebases with advanced class designs.
-<br>Machine Learning: Supports custom model architectures in frameworks like PyTorch.
-<br>Backend Development: Underpins framework-based apps (e.g., Django models) with MRO and properties.
-
-
-<br><a data-href="Modules and Packages" href="Modules and Packages" class="internal-link" target="_self" rel="noopener nofollow">Modules and Packages</a>: Learn to manage imports with importlib, sys.path, relative imports, and create/publish Python packages using setup.py or pyproject.toml.<br>
-Relevance:
-
-<br>Software Development: Essential for building and distributing reusable libraries and tools.
-<br>Data Science: Simplifies sharing custom utilities across projects with packaged code.
-<br>Open Source: Enables contribution to ecosystems like PyPI with well-structured packages.
-
-
-<br><a data-href="Typing and Annotations" href="Typing and Annotations" class="internal-link" target="_self" rel="noopener nofollow">Typing and Annotations</a>: Understand type hints (List, Dict, Optional, Union), TypedDict, Protocol, generics, and tools like mypy and pyright for static type checking.<br>
-Relevance:
-
-<br>Software Development: Improves code reliability and IDE support for large projects.
-<br>Data Science: Ensures data pipeline integrity with typed inputs/outputs.
-<br>Machine Learning: Enhances clarity in complex model codebases with type annotations.
-
-
-<br><a data-href="Testing in Python" href="Testing in Python" class="internal-link" target="_self" rel="noopener nofollow">Testing in Python</a>: Dive into testing with unittest, pytest, mocking, test discovery, fixtures, and coverage tools to ensure code quality.<br>
-Relevance:
-
-<br>Software Development: Critical for maintaining robust, bug-free applications.
-<br>Data Science: Validates data processing pipelines and analysis scripts.
-<br>Machine Learning: Ensures model correctness and reproducibility through automated tests.
-
-
-<br><a data-href="Performance Optimization" href="Performance Optimization" class="internal-link" target="_self" rel="noopener nofollow">Performance Optimization</a>: Optimize Python with profiling, caching, parallelism, the GIL, multithreading, multiprocessing, asyncio, memory profiling, and efficient use of collections, itertools, and heapq.<br>
-Relevance:
-
-<br>Software Development: Boosts application speed for scalable, high-performance systems.
-<br>Data Science: Accelerates data processing for large datasets with optimized tools.
-<br>Machine Learning: Reduces training time with multiprocessing and memory-efficient structures.
-
-
-<br><a data-href="Python Extras" href="Python Extras" class="internal-link" target="_self" rel="noopener nofollow">Python Extras</a>: Discover Pythonic idioms, real-world code review practices, REPL tricks, and building CLI apps with argparse or click.<br>
-Relevance:
-
-<br>Software Development: Enhances code readability and productivity with idiomatic patterns and CLI tools.
-<br>Data Science: Streamlines workflows with custom CLI scripts for data tasks.
-<br>Cybersecurity: Code review practices help identify vulnerabilities in Python projects.
-
-
-<br><a data-href="Design Patterns" href="Design Patterns" class="internal-link" target="_self" rel="noopener nofollow">Design Patterns</a>: Understand common design patterns and how they can be implemented in Python.<br>
-Relevance:
-
-<br>Software Development: Enhances code structure for maintainability and scalability.
-<br>Backend Development: Supports robust web app designs with patterns like Singleton or Factory.
-<br>Machine Learning: Applies patterns for modular model pipelines.
-
-
-<br><a data-href="Python GUI Development" href="Python GUI Development" class="internal-link" target="_self" rel="noopener nofollow">Python GUI Development</a>: Explore libraries such as Tkinter and web-based interfaces with Dash.<br>
-Relevance:
-
-<br>Software Development: Enables building user-friendly desktop and web interfaces.
-<br>Data Science: Facilitates interactive dashboards for data exploration.
-<br>Machine Learning: Supports visualization of model outputs in GUI apps.
-
-
-<br><a data-href="Popular Frameworks" href="Popular Frameworks" class="internal-link" target="_self" rel="noopener nofollow">Popular Frameworks</a>: Discover tools like Django, Flask (web), pandas (data analysis), and PyTorch (AI).<br>
-Relevance:
-
-<br>Backend Development: Powers web apps with Django and Flask.
-<br>Data Science: pandas enables efficient data manipulation and analysis.
-<br>Machine Learning: PyTorch drives advanced model development.
-
-
-<br><a data-href="Statistics and Probability in Python" href="Statistics and Probability in Python" class="internal-link" target="_self" rel="noopener nofollow">Statistics and Probability in Python</a>: Learn how to work with statistical concepts, libraries, and techniques in Python for data analysis and visualization.<br>
-Relevance:
-
-<br>Data Science: Core for hypothesis testing and data insights.
-<br>Machine Learning: Essential for understanding model assumptions and metrics.
-<br>Cybersecurity: Supports anomaly detection with statistical methods.
-
-
-<br><a data-href="Advanced Data Structures" href="Advanced Data Structures" class="internal-link" target="_self" rel="noopener nofollow">Advanced Data Structures</a>: Delve into complex data structures and algorithms in Python, such as graphs, heaps, hash tables, and trees.<br>
-Relevance:
-
-<br>Software Development: Optimizes algorithms for performance-critical applications.
-<br>Data Science: Enables efficient data processing and querying.
-<br>Machine Learning: Supports graph-based models and feature engineering.
-
-
-<br><a data-href="Remote Jupyter Workflows" href="Remote Jupyter Workflows" class="internal-link" target="_self" rel="noopener nofollow">Remote Jupyter Workflows</a>: Connect your local JupyterLab to remote compute—either by syncing full notebooks to cloud services or by running heavy cells on a remote kernel—so you can use free/freemium GPU or CPU resources without leaving your IDE.  Relevance:
-
-<br>Data Science: Run large analyses and model training on cloud GPUs (e.g., Colab, Kaggle) while exploring data locally.
-<br>Machine Learning: Offload training loops to remote kernels via SSH or papermill for faster, reproducible workflows.
-<br>DevOps &amp; Cost Management: Adopt remote execution patterns using free-tier services to scale compute on a budget.
-
-
-<br><a data-href="Pickle and Serialization" href="Pickle and Serialization" class="internal-link" target="_self" rel="noopener nofollow">Pickle and Serialization</a>: Understand the concept of serialization, how to work with Pickle for data storage, and why security considerations matter in the context of serializing objects in Python.<br>
-Relevance:
-
-<br>Data Science: Used for saving machine learning models, datasets, and pipelines for later use.
-<br>Backend Development: Often used for caching or persisting session states.
-<br>Cybersecurity: Understanding vulnerabilities associated with deserializing untrusted data (e.g., Pickle-based exploits).
-
-
-]]></description><link>future-expansion.html</link><guid isPermaLink="false">Future Expansion.md</guid><pubDate>Fri, 13 Jun 2025 13:30:03 GMT</pubDate></item><item><title><![CDATA[Plotting in Python]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidianmd]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>obsidianmd</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 13 Jun 2025 16:42:18 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 13 Jun 2025 16:42:15 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Plotting in Python]]></title><description><![CDATA[ 
  <br>Plotting in Python can feel overwhelming—too many libraries, syntax quirks, and trial-and-error moments. I used to lean on LLMs for quick answers, but they often left me piecing things together. This page is your go-to guide for mastering Python plotting, offering clear explanations, reusable patterns, and troubleshooting tips to make visualizations intuitive and efficient.<br>
 ⚠️ Note on scope:<br>
 This guide is focused purely on the technical side of plotting—how to use visualization libraries, understand their syntax, and craft common plot types efficiently. It does not cover interpreting what the plots mean or how to draw insights from them.
@@ -188,7 +75,8 @@ ax.plot([1, 2, 3], [4, 5, 6])
 ax.set_title("Sample Plot")
 
 
-<br>	**Pros:**
+<br>
+	**Pros:**
 	- Offers explicit control over each component of the plot, which enhances modularity and reusability.
 	- Avoids issues related to the global state, making it easier to manage multiple plots or subplots within the same figure. 
 	**Cons:**
@@ -879,7 +767,120 @@ Explanation:<br>
 <br>Font Size: Reduce tick label font size for crowded axes to improve clarity.
 <br>Custom Ticks: Use dynamic tick locators to reduce tick density automatically.
 <br>Preview: Check label placement in a small figure before saving to high-resolution formats.
-]]></description><link>plotting-in-python.html</link><guid isPermaLink="false">Plotting in Python.md</guid><pubDate>Fri, 13 Jun 2025 15:41:53 GMT</pubDate><enclosure url="https://matplotlib.org/stable/_images/users-explain-axes-axes_intro-1.2x.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://matplotlib.org/stable/_images/users-explain-axes-axes_intro-1.2x.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Python Virtual environments and Anaconda]]></title><description><![CDATA[ 
+]]></description><link>plotting-in-python.html</link><guid isPermaLink="false">Plotting in Python.md</guid><pubDate>Fri, 13 Jun 2025 16:41:52 GMT</pubDate><enclosure url="https://matplotlib.org/stable/_images/users-explain-axes-axes_intro-1.2x.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="https://matplotlib.org/stable/_images/users-explain-axes-axes_intro-1.2x.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Future Expansion]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="Core Python Deep Dives" href="Core Python Deep Dives" class="internal-link" target="_self" rel="noopener nofollow">Core Python Deep Dives</a>: Explore advanced Python features like dunder methods, iterators, generators, comprehensions, context managers, decorators, closures, and functional tools (map, filter, reduce, lambda, functools).<br>
+Relevance:
+
+<br>Software Development: Simplifies code with elegant patterns like decorators and context managers for robust applications.
+<br>Data Science: Functional tools and comprehensions speed up data processing and transformation tasks.
+<br>Machine Learning: Generators and iterators optimize memory usage for large datasets and model training.
+
+
+<br><a data-href="Object Oriented Programming (OOP)" href="Object Oriented Programming (OOP)" class="internal-link" target="_self" rel="noopener nofollow">Object Oriented Programming (OOP)</a>: Master OOP in Python, covering classes, objects, inheritance, polymorphism, class/static methods, method resolution order (MRO), abstract base classes, properties, descriptors, and custom exceptions.<br>
+Relevance:
+
+<br>Software Development: Structures scalable, maintainable codebases with advanced class designs.
+<br>Machine Learning: Supports custom model architectures in frameworks like PyTorch.
+<br>Backend Development: Underpins framework-based apps (e.g., Django models) with MRO and properties.
+
+
+<br><a data-href="Modules and Packages" href="Modules and Packages" class="internal-link" target="_self" rel="noopener nofollow">Modules and Packages</a>: Learn to manage imports with importlib, sys.path, relative imports, and create/publish Python packages using setup.py or pyproject.toml.<br>
+Relevance:
+
+<br>Software Development: Essential for building and distributing reusable libraries and tools.
+<br>Data Science: Simplifies sharing custom utilities across projects with packaged code.
+<br>Open Source: Enables contribution to ecosystems like PyPI with well-structured packages.
+
+
+<br><a data-href="Typing and Annotations" href="Typing and Annotations" class="internal-link" target="_self" rel="noopener nofollow">Typing and Annotations</a>: Understand type hints (List, Dict, Optional, Union), TypedDict, Protocol, generics, and tools like mypy and pyright for static type checking.<br>
+Relevance:
+
+<br>Software Development: Improves code reliability and IDE support for large projects.
+<br>Data Science: Ensures data pipeline integrity with typed inputs/outputs.
+<br>Machine Learning: Enhances clarity in complex model codebases with type annotations.
+
+
+<br><a data-href="Testing in Python" href="Testing in Python" class="internal-link" target="_self" rel="noopener nofollow">Testing in Python</a>: Dive into testing with unittest, pytest, mocking, test discovery, fixtures, and coverage tools to ensure code quality.<br>
+Relevance:
+
+<br>Software Development: Critical for maintaining robust, bug-free applications.
+<br>Data Science: Validates data processing pipelines and analysis scripts.
+<br>Machine Learning: Ensures model correctness and reproducibility through automated tests.
+
+
+<br><a data-href="Performance Optimization" href="Performance Optimization" class="internal-link" target="_self" rel="noopener nofollow">Performance Optimization</a>: Optimize Python with profiling, caching, parallelism, the GIL, multithreading, multiprocessing, asyncio, memory profiling, and efficient use of collections, itertools, and heapq.<br>
+Relevance:
+
+<br>Software Development: Boosts application speed for scalable, high-performance systems.
+<br>Data Science: Accelerates data processing for large datasets with optimized tools.
+<br>Machine Learning: Reduces training time with multiprocessing and memory-efficient structures.
+
+
+<br><a data-href="Python Extras" href="Python Extras" class="internal-link" target="_self" rel="noopener nofollow">Python Extras</a>: Discover Pythonic idioms, real-world code review practices, REPL tricks, and building CLI apps with argparse or click.<br>
+Relevance:
+
+<br>Software Development: Enhances code readability and productivity with idiomatic patterns and CLI tools.
+<br>Data Science: Streamlines workflows with custom CLI scripts for data tasks.
+<br>Cybersecurity: Code review practices help identify vulnerabilities in Python projects.
+
+
+<br><a data-href="Design Patterns" href="Design Patterns" class="internal-link" target="_self" rel="noopener nofollow">Design Patterns</a>: Understand common design patterns and how they can be implemented in Python.<br>
+Relevance:
+
+<br>Software Development: Enhances code structure for maintainability and scalability.
+<br>Backend Development: Supports robust web app designs with patterns like Singleton or Factory.
+<br>Machine Learning: Applies patterns for modular model pipelines.
+
+
+<br><a data-href="Python GUI Development" href="Python GUI Development" class="internal-link" target="_self" rel="noopener nofollow">Python GUI Development</a>: Explore libraries such as Tkinter and web-based interfaces with Dash.<br>
+Relevance:
+
+<br>Software Development: Enables building user-friendly desktop and web interfaces.
+<br>Data Science: Facilitates interactive dashboards for data exploration.
+<br>Machine Learning: Supports visualization of model outputs in GUI apps.
+
+
+<br><a data-href="Popular Frameworks" href="Popular Frameworks" class="internal-link" target="_self" rel="noopener nofollow">Popular Frameworks</a>: Discover tools like Django, Flask (web), pandas (data analysis), and PyTorch (AI).<br>
+Relevance:
+
+<br>Backend Development: Powers web apps with Django and Flask.
+<br>Data Science: pandas enables efficient data manipulation and analysis.
+<br>Machine Learning: PyTorch drives advanced model development.
+
+
+<br><a data-href="Statistics and Probability in Python" href="Statistics and Probability in Python" class="internal-link" target="_self" rel="noopener nofollow">Statistics and Probability in Python</a>: Learn how to work with statistical concepts, libraries, and techniques in Python for data analysis and visualization.<br>
+Relevance:
+
+<br>Data Science: Core for hypothesis testing and data insights.
+<br>Machine Learning: Essential for understanding model assumptions and metrics.
+<br>Cybersecurity: Supports anomaly detection with statistical methods.
+
+
+<br><a data-href="Advanced Data Structures" href="Advanced Data Structures" class="internal-link" target="_self" rel="noopener nofollow">Advanced Data Structures</a>: Delve into complex data structures and algorithms in Python, such as graphs, heaps, hash tables, and trees.<br>
+Relevance:
+
+<br>Software Development: Optimizes algorithms for performance-critical applications.
+<br>Data Science: Enables efficient data processing and querying.
+<br>Machine Learning: Supports graph-based models and feature engineering.
+
+
+<br><a data-href="Remote Jupyter Workflows" href="Remote Jupyter Workflows" class="internal-link" target="_self" rel="noopener nofollow">Remote Jupyter Workflows</a>: Connect your local JupyterLab to remote compute—either by syncing full notebooks to cloud services or by running heavy cells on a remote kernel—so you can use free/freemium GPU or CPU resources without leaving your IDE.  Relevance:
+
+<br>Data Science: Run large analyses and model training on cloud GPUs (e.g., Colab, Kaggle) while exploring data locally.
+<br>Machine Learning: Offload training loops to remote kernels via SSH or papermill for faster, reproducible workflows.
+<br>DevOps &amp; Cost Management: Adopt remote execution patterns using free-tier services to scale compute on a budget.
+
+
+<br><a data-href="Pickle and Serialization" href="Pickle and Serialization" class="internal-link" target="_self" rel="noopener nofollow">Pickle and Serialization</a>: Understand the concept of serialization, how to work with Pickle for data storage, and why security considerations matter in the context of serializing objects in Python.<br>
+Relevance:
+
+<br>Data Science: Used for saving machine learning models, datasets, and pipelines for later use.
+<br>Backend Development: Often used for caching or persisting session states.
+<br>Cybersecurity: Understanding vulnerabilities associated with deserializing untrusted data (e.g., Pickle-based exploits).
+
+
+]]></description><link>future-expansion.html</link><guid isPermaLink="false">Future Expansion.md</guid><pubDate>Fri, 13 Jun 2025 13:30:03 GMT</pubDate></item><item><title><![CDATA[Python Virtual environments and Anaconda]]></title><description><![CDATA[ 
  <br><br><br>
 *Note : all commands here are specific for Linux-based Operating systems*<br>
 *if you're a windows user consider using WSL or virtual Machine 
@@ -1250,7 +1251,7 @@ jupyter lab build
 <br>jupyterlab-toc – Table of Contents
 <br>jupyterlab-git – Git integration
 <br>jupyterlab-variableinspector – Variable Explorer
-<br>]]></description><link>python-virtual-environments-and-anaconda.html</link><guid isPermaLink="false">Python Virtual environments and Anaconda.md</guid><pubDate>Sat, 26 Apr 2025 17:08:29 GMT</pubDate><enclosure url="https://media.licdn.com/dms/image/v2/D5612AQElU5Sk22RUeA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681478776234?e=2147483647&amp;v=beta&amp;t=VrKzoDN1tojtDsKgFcjy-8rqgcdfGS71A3tN2pohiAc" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://media.licdn.com/dms/image/v2/D5612AQElU5Sk22RUeA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681478776234?e=2147483647&amp;v=beta&amp;t=VrKzoDN1tojtDsKgFcjy-8rqgcdfGS71A3tN2pohiAc&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Beyond Basics Python]]></title><description><![CDATA[ 
+<br>]]></description><link>python-virtual-environments-and-anaconda.html</link><guid isPermaLink="false">Python Virtual environments and Anaconda.md</guid><pubDate>Sat, 26 Apr 2025 17:08:29 GMT</pubDate><enclosure url="https://media.licdn.com/dms/image/v2/D5612AQElU5Sk22RUeA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681478776234?e=2147483647&amp;v=beta&amp;t=VrKzoDN1tojtDsKgFcjy-8rqgcdfGS71A3tN2pohiAc" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="https://media.licdn.com/dms/image/v2/D5612AQElU5Sk22RUeA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681478776234?e=2147483647&amp;v=beta&amp;t=VrKzoDN1tojtDsKgFcjy-8rqgcdfGS71A3tN2pohiAc"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Beyond Basics Python]]></title><description><![CDATA[ 
  <br><br>Welcome to the "Beyond Basics Python" vault! This vault is designed to help you explore advanced Python topics and deepen your understanding of the language. <br>
 *Note: This vault assumes you have a solid understanding of basic Python concepts such as variables, loops, and functions. If you’re new to Python, it’s recommended to start with beginner-level resources before diving into this content.*
 <br>Here, you will find a collection of notes and resources on topics such as:<br><br>
